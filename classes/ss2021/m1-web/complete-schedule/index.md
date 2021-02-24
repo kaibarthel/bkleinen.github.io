@@ -9,7 +9,7 @@ wide_layout: true
 |:-----|:---|:---------------|:----------------------------------------|:----------------|
 | 1    | 14 | Wed 07/04/2021 | Visual Computing                        | Klaus Jung      |
 | 2    | 15 | Wed 14/04/2021 | Visual Computing                        | Nico Hezel      |
-| 3    | 16 | Wed 21/04/2021 | Visual Computing                        | Klaus Jung      |
+| 3    | 16 | Wed 21/04/2021 | Visual Computing                        | Kai Barthel     |
 | 4    | 17 | Wed 28/04/2021 | Visual Computing                        | Nico Hezel      |
 | 5    | 18 | Wed 05/05/2021 | Visual Computing                        | Nico Hezel      |
 | 6    | 19 | Wed 12/05/2021 | Game Technology and Interactive Systems | David Strippgen |
